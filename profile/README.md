@@ -1,32 +1,32 @@
 # Welcome to the Petersen Lab GitHub repositories 👋
 
-# 👩‍💻 Useful resources
+## 👩‍💻 Useful resources
 * petersen-lab-book
 
-# 🌈 Contribution guidelines - new users
+## 🌈 Contribution guidelines - new users
 
-## Projects
+### Projects
 Create a private repository for your projects
 
-## Matlab code for the PetersenLab at UCPH 
+### Matlab code for the PetersenLab at UCPH 
 Dependencies and other related tools
 
-## Our repos
+### Our repos
 * petersen-lab-matlab
 * petersen-lab-python
 * CellExplorer
 * Kilosort3Wrapper
 
-## Third-party repositories
+### Third-party repositories
 * Buzcode
 * KiloSort
   
-## Matlab apps
+### Matlab apps
 
 
-## Guideline for MATLAB Naming Convention
+### Guideline for MATLAB Naming Convention
 
-## General Principles
+### General Principles
 - **Consistency**: Stick to the chosen convention throughout the codebase.
 - **Avoid Abbreviations**: Unless widely recognized or obvious, avoid abbreviating variable names.
 - **Meaningful Names**: Prioritize meaningful and descriptive names over short, cryptic ones.
@@ -43,7 +43,7 @@ Dependencies and other related tools
 | **Loop Indices**               | Single Letters                  | `i`                 |
 | **Logical (Boolean) Variables**| Prefix with is, has, can, should, etc. | `isValid`        |
 
-# Python
+## Python
 
-## Guideline for Python
+### Guideline for Python
 PEP8
