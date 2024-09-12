@@ -8,7 +8,7 @@
 ### Projects
 Create a private repository for your projects
 
-### Matlab code for the PetersenLab at UCPH 
+# Matlab code for the PetersenLab at UCPH 
 Dependencies and other related tools
 
 ### Our repos
@@ -43,7 +43,7 @@ Dependencies and other related tools
 | **Loop Indices**               | Single Letters                  | `i`                 |
 | **Logical (Boolean) Variables**| Prefix with is, has, can, should, etc. | `isValid`        |
 
-## Python
+# Python
 
 ### Guideline for Python
 PEP8
