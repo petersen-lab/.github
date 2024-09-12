@@ -1,10 +1,14 @@
-## Welcome to the Petersen Lab GitHub repositories 👋
+# Welcome to the Petersen Lab GitHub repositories 👋
 
 # 👩‍💻 Useful resources
 * petersen-lab-book
 
-# Matlab 
+# 🌈 Contribution guidelines - new users
 
+## Projects
+Create a private repository for your projects
+
+## Matlab code for the PetersenLab at UCPH 
 Dependencies and other related tools
 
 ## Our repos
@@ -19,11 +23,6 @@ Dependencies and other related tools
   
 ## Matlab apps
 
-# 🌈 Contribution guidelines - new users
-# Projects
-Create a private repository for your projects
-
-Matlab code for the PetersenLab at UCPH
 
 ## Guideline for MATLAB Naming Convention
 
