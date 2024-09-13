@@ -34,7 +34,7 @@ Dependencies and other related tools
 We will follow the CellExplorer data structure and format:  https://cellexplorer.org/datastructure/data-structure-and-format/
 
 
-### General Principles for naming variables, functions and scripts
+### General Principles for naming variables, functions, and scripts
 - **Consistency**: Stick to the chosen convention throughout the codebase.
 - **Avoid Abbreviations**: Unless widely recognized or obvious, avoid abbreviating variable names.
 - **Meaningful Names**: Prioritize meaningful and descriptive names over short, cryptic ones.
