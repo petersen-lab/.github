@@ -1,7 +1,7 @@
 # Welcome to the Petersen Lab GitHub repositories 👋
 
 ## 👩‍💻 Useful resources
-* Lab notebook: petersen-lab-book
+* Lab notebook: petersen-lab-book, available at: https://petersen-lab.github.io/petersen-lab-book/intro.html
 
 ## 🌈 Contribution guidelines - new users
 
